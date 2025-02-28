@@ -1,0 +1,1 @@
+This is a sample project for learning **flask** framework in python. It is based on Miguel Grinberg's flask mega tutorial (https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
